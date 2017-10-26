@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import {GetArtistService} from './get-artist.service'
-import {ArtistDetail} from './artist-detail.model'
+
 
 @Component({
     moduleId:module.id,
